@@ -1,4 +1,5 @@
 # Proyecto Final: La Deserción Escolar en la Educación Media Superior
+### CRISTIAN EDUARDO MONTESINO FERNANDEZ, NEREYDA MOTA DOMÍNGUEZ Y YAHYR MORALES GARRIDO.
 ## Introducción del Proyecto
 La deserción escolar en el nivel de educación media superior representa un desafío significativo en el ámbito educativo, especialmente en países donde el acceso y permanencia en este nivel de estudios son factores cruciales para el desarrollo socioeconómico. La salida prematura de estudiantes en esta etapa educativa no solo limita sus oportunidades de continuar con estudios superiores y mejorar su calidad de vida, sino que también afecta el crecimiento económico y social del país.
 
