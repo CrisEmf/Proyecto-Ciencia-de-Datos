@@ -13,8 +13,6 @@ Hacer un análisis y determinar los principales riesgos de deserción escolar en
 
 ## Modelamiento de Datos
 Seleccionamos dentro de las tres variables principales: Socioeconómico, Rendimiento escolar y Psicológico o Salud Mental; las preguntas más relevantes y creamos los gráficos correspondientes, ya que, es una forma sencilla para que los resultados puedan comprenderse fácilmente.
-## Resultados
-De acuerdo al análisis, se determinó que efectivamente el abnadono escolar se encuentra principalmente en la educación media superior, además de que las respuestas indican que en las escuelas preparatorias de Xalapa la deserción escolar se debe principalmente al equilibrio de estudiar con otras responsabilidades y la carga académica o el ritmo de estudios que llevan los alumnos, incluso relacionandose a factores de salud mental.
 ## Conclusiones
 ### Resumen del Análisis
 El análisis realizado confirma que la deserción escolar en la educación media superior es un problema crítico, especialmente en las escuelas preparatorias de Xalapa. Los resultados destacan que las principales causas identificadas están relacionadas con:
