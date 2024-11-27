@@ -1,8 +1,8 @@
 # Proyecto Final: La Deserción Escolar en la Educación Media Superior
 ### CRISTIAN EDUARDO MONTESINO FERNANDEZ, NEREYDA MOTA DOMÍNGUEZ Y YAHYR MORALES GARRIDO.
 ## Fases del Proyecto
-1. Introducción [haz click para ir](Planteamientodelproblema.md)
-2. Planteamiento del problema [haz click para ir](Conjuntodedatos.md)
+1. Introducción [haz click para ir](Introducción.md)
+2. Planteamiento del problema [haz click para ir](Planteamientodelproblema.md)
 4. Conjunto de datos [haz click para ir](Conjuntodedatos.md)
 5. Modelado [haz click para ir](Modelado.md)
 6. Resultados [haz click para ir](Resultados.md)
