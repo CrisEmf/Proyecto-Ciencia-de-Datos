@@ -3,10 +3,10 @@
 ## Fases del Proyecto
 1. Introducción [haz click para ir](Introducción.md)
 2. Planteamieto del problema [haz click para ir](Planteamiento del problema.md)
-3. Conjunto de datos [haz click para ir]()
-4. Modelado
-5. Resultados
-6. Conclusiones
+4. Conjunto de datos [haz click para ir]()
+5. Modelado
+6. Resultados
+7. Conclusiones
 
 ## Objetivo
 Hacer un análisis y determinar los principales riesgos de deserción escolar en algunas escuelas de Xalapa.
