@@ -2,7 +2,7 @@
 ### CRISTIAN EDUARDO MONTESINO FERNANDEZ, NEREYDA MOTA DOMÍNGUEZ Y YAHYR MORALES GARRIDO.
 ## Fases del Proyecto
 1. Introducción [haz click para ir](Introducción.md)
-2. Planteamiento del problema [haz click para ir](Planteamiento del problema.md)
+2. Planteamiento del problema [haz click para ir](https://github.com/CrisEmf/Proyecto-Ciencia-de-Datos/blob/60e46b8d59de9277511edb729c67f3c1ca2b5dd9/Planteamiento%20del%20problema.md)
 3. Conjunto de datos [haz click para ir]()
 5. Modelado
 6. Resultados
