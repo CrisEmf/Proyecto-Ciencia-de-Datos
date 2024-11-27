@@ -2,11 +2,11 @@
 ### CRISTIAN EDUARDO MONTESINO FERNANDEZ, NEREYDA MOTA DOMÍNGUEZ Y YAHYR MORALES GARRIDO.
 ## Fases del Proyecto
 1. Introducción [haz click para ir](Introducción.md)
-2. Planteamiento del problema [haz click para ir](https://github.com/CrisEmf/Proyecto-Ciencia-de-Datos/blob/60e46b8d59de9277511edb729c67f3c1ca2b5dd9/Planteamiento%20del%20problema.md)
-3. Conjunto de datos [haz click para ir]()
-5. Modelado
-6. Resultados
-7. Conclusiones
+2. Planteamiento del problema [haz click para ir](Planteamientodelproblema.md)
+4. Conjunto de datos [haz click para ir](Conjuntodedatos.md)
+5. Modelado [haz click para ir](Modelado.md)
+6. Resultados [haz click para ir](Resultados.md)
+7. Conclusiones [haz click para ir](Conclusiones.md)
 
 ## Objetivo
 Hacer un análisis y determinar los principales riesgos de deserción escolar en algunas escuelas de Xalapa.
