@@ -10,3 +10,4 @@
 
 ## Objetivo
 Hacer un análisis y determinar los principales riesgos de deserción escolar en algunas escuelas de Xalapa.
+![Logo del proyecto](https://github.com/CrisEmf/Proyecto-Ciencia-de-Datos/blob/11c9a7b2f82a67036e248dc05a3fd10f9c8e15a5/imagenes/descarga%20(16).jpg)
