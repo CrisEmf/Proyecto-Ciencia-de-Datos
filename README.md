@@ -2,7 +2,7 @@
 ### CRISTIAN EDUARDO MONTESINO FERNANDEZ, NEREYDA MOTA DOMÍNGUEZ Y YAHYR MORALES GARRIDO.
 ## Fases del Proyecto
 1. Introducción [haz click para ir](Introducción.md)
-2. Introducción [haz click para ir](Introducción.md)
+2. Planteamiento del problema [haz click para ir](Planteamiento del problema.md)
 3. Conjunto de datos [haz click para ir]()
 5. Modelado
 6. Resultados
