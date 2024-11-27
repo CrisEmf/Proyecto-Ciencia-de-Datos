@@ -1,2 +1,2 @@
 # Modelamiento de Datos
-Seleccionamos dentro de las tres variables principales: Socioeconómico, Rendimiento escolar y Psicológico o Salud Mental; las preguntas más relevantes y creamos los gráficos correspondientes, ya que, es una forma sencilla para que los resultados puedan comprenderse fácilmente.
+Seleccionamos dentro de las tres variables principales: Socioeconómico, Rendimiento escolar y Psicológico o Salud Mental; las preguntas más relevantes y creamos los gráficos correspondientes con los datos ya limpios y con la ayuda de excel, ya que, es una forma sencilla para que los resultados puedan comprenderse fácilmente, a tráves de gráficos de pastel representando los principales porcentajes en las variables correspondientes.
