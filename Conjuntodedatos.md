@@ -30,4 +30,4 @@ Para el primer conjunto, es comprobar y analizar que el abandoo escolar se encue
 ## Proceso incial
 Se hizo primero una limpieza de datos con python, para eliminar valores nulos, además de rellenar algunos espacios de acuerdo al promedio, y en algunas variables catégoricas, volverlas número para simplificar.
 
-Conjunto de datos utilizado [haz click aquí](dataset)
+Conjunto de datos utilizado [haz click aquí](dataset/DESERCIÓN ESCOLAR EN EMS (Respuestas) - Respuestas de formulario 1.csv)
