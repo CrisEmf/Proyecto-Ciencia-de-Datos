@@ -8,4 +8,5 @@ Pasos del modelamnieto de datos:
 4. Determinar cuáles tienen un mayor impacto porcentual
 5. Seleccionar los gráficos más destacables
 
-[haz click aquí](dataset/Educacion_11.
+[haz click aquí](dataset/datos_con_estadisticas_encuestadeserción escolar_ems_limpios.xlsx)
+
