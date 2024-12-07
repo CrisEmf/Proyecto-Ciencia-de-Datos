@@ -29,3 +29,5 @@ Los conjuntos de datos de este proyecto contienen información detallada sobre l
 Para el primer conjunto, es comprobar y analizar que el abandoo escolar se encuentra principalmente en la eduacación media superior, mientras que, en el segundo es determinar en que variables o preguntas es más alto el porcentaje de una respuesta negativa o positiva para determinar directamente los factores que más afectan a los estudiantes abandonar este nivel de estudio.
 ## Proceso incial
 Se hizo primero una limpieza de datos con python, para eliminar valores nulos, además de rellenar algunos espacios de acuerdo al promedio, y en algunas variables catégoricas, volverlas número para simplificar.
+
+Conjunto de datos utilizado [haz click aquí](dataset)
