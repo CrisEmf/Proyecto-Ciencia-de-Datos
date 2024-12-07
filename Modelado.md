@@ -11,5 +11,6 @@ Pasos del modelamnieto de datos:
 Códigos Utilizados:
 
 [haz click aquí](code/MapeodeDatos_DeserciónEscolar.ipynb)
-[haz click aquí](code/MapeodeDatos_DeserciónEscolar.ipynb)
+
+[haz click aquí](code/MapeoyLimpiezadeDatos-Encuesta.ipynb)
 
