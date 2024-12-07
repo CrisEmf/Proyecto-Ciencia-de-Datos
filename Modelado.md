@@ -7,3 +7,5 @@ Pasos del modelamnieto de datos:
 3. Crear los gráficos recomendados a cada variable 
 4. Determinar cuáles tienen un mayor impacto porcentual
 5. Seleccionar los gráficos más destacables
+
+[haz click aquí](dataset/Educacion_11.
