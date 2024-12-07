@@ -7,3 +7,5 @@ Pasos del modelamnieto de datos:
 3. Crear los gráficos recomendados a cada variable 
 4. Determinar cuáles tienen un mayor impacto porcentual
 5. Seleccionar los gráficos más destacables
+
+[hazclick aquí](dataset/datos_con_estadisticas_encuestadeserción escolar_ems_limpios.xlsx)
